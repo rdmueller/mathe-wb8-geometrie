@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title: "Winkel: Winkelsumme und Geradenkreuzungen"
+summary: Winkelsumme in Dreieck und Viereck, Neben-, Scheitel-, Stufen- und Wechselwinkel – fehlende Winkel ohne Messen berechnen.
+pages: [winkelsumme, geradenkreuzungen]
+# The chapter's self-assessment: one step, one exercise per page (generated where possible), in course order.
+selfAssessment:
+  pages:
+    - exercises:
+        - /winkel/winkelsumme/#winkelsumme-dreieck
+        - /winkel/geradenkreuzungen/#geradenkreuzungen-nebenwinkel
