@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title: Flächeninhalt, Umfang und Volumen
+summary: Formeln für Rechteck, Dreieck, Parallelogramm, Trapez, Quader und Würfel – hergeleitet, damit du sie behältst.
+pages: [quadrat-rechteck, dreieck, parallelogramm-trapez, quader-wuerfel, netz-oberflaeche, formeln-umstellen]
+# The chapter's self-assessment: one step, one exercise per page (generated where possible), in course order.
+selfAssessment:
+  pages:
+    - exercises:
+        - /flaechen/quadrat-rechteck/#quadrat-rechteck-flaeche
+        - /flaechen/dreieck/#dreieck-flaeche
+        - /flaechen/parallelogramm-trapez/#parallelogramm-trapez-parallelogramm
+        - /flaechen/quader-wuerfel/#quader-wuerfel-volumen
+        - /flaechen/netz-oberflaeche/#netz-oberflaeche-quader
+        - /flaechen/formeln-umstellen/#formeln-umstellen-dreieck
